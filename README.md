@@ -8,8 +8,8 @@ Sou um desenvolvedor Full-Stack apaixonado por tecnologia e desenvolvimento web.
 - Desenvolvimento de sistemas de gerenciamento, e-commerce e plataformas web.
 
 ## Como me encontrar:
-- [LinkedIn](https://www.linkedin.com/in/gustavotc)
-- [Twitter](https://twitter.com/gustavo_tc)
+- [LinkedIn][(https://www.linkedin.com/in/gustavotc)](https://www.linkedin.com/in/gustavo-tecedora-candido-b091b7357/)
+- 
 
 ## Sobre mim/ About me: 
 Gustavo Tecedora Candido
