@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! Eu sou Gustavo Tecedora Candido 👋
 
-<!--
-**GustavoTc-Web/GustavoTc-Web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor Full-Stack apaixonado por tecnologia e desenvolvimento web.
 
-Here are some ideas to get you started:
+**Especialidades**:
+- Backend: Python, JavaScript, MySQL.
+- Frontend: HTML, CSS, JavaScript.
+- Desenvolvimento de sistemas de gerenciamento, e-commerce e plataformas web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque:
+- [TeceGym - Site da Academia](https://github.com/GustavoTc-Web/tecegym-site)
+- [Outro projeto interessante](https://github.com/GustavoTc-Web/outro-projeto)
+
+## Como me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/gustavotc)
+- [Twitter](https://twitter.com/gustavo_tc)
+
+## Sobre mim:
+- 💻 Estou sempre aprendendo novas tecnologias.
+- 🚀 Estou atualmente trabalhando no meu projeto de site para academia.
+- 🎯 Meu foco é criar soluções eficientes e escaláveis.
